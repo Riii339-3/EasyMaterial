@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "easymaterial:block/storage_blocks"
+    }
+  }
+}

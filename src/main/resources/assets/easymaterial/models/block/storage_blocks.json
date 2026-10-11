@@ -1,0 +1,6 @@
+{
+  "parent": "easymaterial:block/tinted_cube_all",
+  "textures": {
+    "all": "easymaterial:block/storage_blocks"
+  }
+}
